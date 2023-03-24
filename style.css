@@ -1,0 +1,34 @@
+body{
+    font-family:'Playfair Display', serif;
+    background-color: #f5dbda;
+}
+.header_div{
+    background-color: lightcoral;
+    color: blanchedalmond;
+}
+.header_div p{
+    font-family: 'Comic Neue', cursive;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Caveat', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(228, 228, 236);
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(164, 154, 207);
+    line-height: 3;
+    text-shadow: 5px 5px 5px #070404;
+}
